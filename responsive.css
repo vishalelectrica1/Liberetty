@@ -1,0 +1,22 @@
+body{
+    min-width: 450px;
+}
+.body{
+    min-width: 350px;
+}
+.navbar{
+    display: block;
+   text-align: center;
+   line-height: 30px;
+}
+.middle span{
+    display: block;
+}
+.page2{
+    display: block;
+
+    
+}
+.box{
+    /* max-width: 200px; */
+}
